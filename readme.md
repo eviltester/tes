@@ -14,6 +14,11 @@ This tool was created to support Social Media Marketing as part of the Talotics.
 
 Check out our Digital Marketing Blog at https://talotics.com/
 
+## Use Tool
+
+- https://eviltester.github.io/tweetstormer/
+- https://talotics.com/app/tweetstormer
+
 ---
 
 ## Generate TweetStorms
