@@ -1,0 +1,18 @@
+- [x] calculate any that are too long
+- [x] delayed update after input
+- [x] render on GUI
+- [x] render on GUI as user types
+- [x] copy to clipboard button - marks as 'done' on the GUI
+- [x] tweet it link, link to twitter feed
+- [x] MVP ready to trial
+- [x] split into JS and CSS
+- [x] add base page as a tool to talotics.com
+- [x] custom 'formats e.g. number at front, [00/10], (1/10), etc.
+- [x] custom formats selectable by drop down
+
+
+TODOS:
+
+- [] checkbox option to auto split long tweets rather than flag them
+- login to tweet automatically
+- generate code to run in console when creating text to create using twitter [+] button

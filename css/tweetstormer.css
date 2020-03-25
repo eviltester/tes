@@ -1,0 +1,29 @@
+.main-text-area{
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+.editarea{
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 1em;
+}
+#output-area{
+    float:right;
+    display: contents;
+    overflow-wrap: break-word;
+    font-family: sans-serif;
+    font-size: 1em;
+    background-color: azure;
+    margin-left: 2em;
+}
+.copied{
+    background-color: #BABABA;
+    text-decoration: line-through;
+}
+.tweet-not-ok{
+    background-color: #ffcd00;
+}
+button.copy-tweet{
+    background-color: #9eebcf;
+}
