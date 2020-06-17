@@ -16,7 +16,12 @@ Check out our Digital Marketing Blog at https://talotics.com/
 
 ## Use Tool
 
-- https://eviltester.github.io/tweetstormer/
+White label:
+
+- https://talotics.github.io/tweetstormer/
+
+With formatting:
+
 - https://talotics.com/app/tweetstormer
 
 ---
