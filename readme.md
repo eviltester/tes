@@ -3,10 +3,11 @@ A simple tool to help create TweetStorms. You can also copy and paste the 'origi
 Created by:
 
 - Alan Richardson
-- https://compendiumdev.co.uk
-- https://eviltester.com
 - https://talotics.com
 - https://chatterscan.com
+- https://compendiumdev.co.uk
+- https://eviltester.com
+
 
 This tool was created to support Social Media Marketing as part of the Talotics.com Custom Tools.
 
